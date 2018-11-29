@@ -1,0 +1,2 @@
+inside of choice: javac *.java
+inside of src: choice.Charachter_chooser
